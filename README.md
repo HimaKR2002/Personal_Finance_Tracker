@@ -59,6 +59,11 @@ The main goal of this project is to:
 
 ---
 
+## ER Diagram using dbdiagram.io
+https://github.com/HimaKR2002/Personal_Finance_Tracker/blob/main/Personal_Finance_Tracker_ER_Diagram.pdf
+
+---
+
 ## Created Views
 
 | View Name | Purpose |
